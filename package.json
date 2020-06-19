@@ -1,0 +1,10 @@
+{
+  "name": "adapt-authoring-vcs",
+  "version": "0.0.1",
+  "description": "A version control system for the Adapt authoring tool",
+  "homepage": "https://github.com/taylortom/adapt-authoring-vcs",
+  "main": "index.js",
+  "peerDependencies": {
+    "adapt-authoring-core": "github:adapt-security/adapt-authoring-core"
+  }
+}
